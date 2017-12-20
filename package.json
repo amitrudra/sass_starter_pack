@@ -1,0 +1,9 @@
+{
+  "name": "sass_starter_pack",
+  "version": "1.0.0",
+  "description": "Starter pack using gulp",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  }
+}
